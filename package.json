@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "vm": "node screw-conveyer.js 10.3.69.32 goux6qzGSIpcX08xslTW & node slurry-trunk.js 10.3.69.32 29MFnOYhnnr9wipRuG2C & node centrifuge.js 10.3.69.32 ooT7bdK7uoxOYFWw5Iqi",
+        "local": "node screw-conveyer.js 127.0.0.1 pwctRAKzCPALMvabmmQI & node slurry-trunk.js 127.0.0.1 p4Fo8pIV3ZWlOI7Oj0iG & node centrifuge.js 127.0.0.1 2hOzxhfMBHMBICZytiGn"
+    }
+}
